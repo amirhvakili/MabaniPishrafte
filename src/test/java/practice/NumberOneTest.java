@@ -1,6 +1,6 @@
 package practice;
 
-import org.example.NumberOne;
+import org.example.oneToTen.NumberOne;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
