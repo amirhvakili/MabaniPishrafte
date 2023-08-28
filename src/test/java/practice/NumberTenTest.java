@@ -10,5 +10,6 @@ public class NumberTenTest {
         NumberTen numberTen = new NumberTen(5 , 4, 8);
         int result = numberTen.sum();
         Assertions.assertThat(result).isEqualTo(17);
+        System.out.println("New from here.");
     }
 }
