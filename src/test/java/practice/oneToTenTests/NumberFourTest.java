@@ -1,4 +1,4 @@
-package practice;
+package practice.oneToTenTests;
 
 import org.example.oneToTen.NumberFour;
 import org.junit.jupiter.api.Test;

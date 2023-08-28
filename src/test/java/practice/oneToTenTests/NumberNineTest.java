@@ -1,4 +1,4 @@
-package practice;
+package practice.oneToTenTests;
 
 import org.assertj.core.api.Assertions;
 import org.example.oneToTen.NumberNine;
