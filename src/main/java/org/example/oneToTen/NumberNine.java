@@ -1,4 +1,4 @@
-package org.example;
+package org.example.oneToTen;
 
 public class NumberNine {
     private String name1;

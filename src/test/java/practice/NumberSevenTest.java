@@ -1,7 +1,7 @@
 package practice;
 
 import org.assertj.core.api.Assertions;
-import org.example.NumberSeven;
+import org.example.oneToTen.NumberSeven;
 import org.junit.jupiter.api.Test;
 
 public class NumberSevenTest {
